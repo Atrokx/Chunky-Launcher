@@ -1,10 +1,10 @@
 {
   "packs": {
     "essentiel": {
-      "url": "https://speed.hetzner.de/100MB.bin"
+      "url": "https://raw.githubusercontent.com/github/gitignore/main/Node.gitignore"
     },
     "qualite": {
-      "url": "https://speed.hetzner.de/100MB.bin"
+      "url": "https://raw.githubusercontent.com/github/gitignore/main/Node.gitignore"
     }
   }
 }
