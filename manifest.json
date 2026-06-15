@@ -1,10 +1,10 @@
 {
   "packs": {
     "essentiel": {
-      "url": "https://raw.githubusercontent.com/github/gitignore/main/Node.gitignore"
+      "url": "https://github.com/github/gitignore/archive/refs/heads/main.zip"
     },
     "qualite": {
-      "url": "https://raw.githubusercontent.com/github/gitignore/main/Node.gitignore"
+      "url": "https://github.com/github/gitignore/archive/refs/heads/main.zip"
     }
   }
 }
