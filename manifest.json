@@ -1,9 +1,9 @@
 {
   "packs": {
-    "Chunky - Essentiel": {
+    "essentiel": {
       "url": "https://github.com/github/gitignore/archive/refs/heads/main.zip"
     },
-    "Chunky - Qualite": {
+    "qualite": {
       "url": "https://github.com/github/gitignore/archive/refs/heads/main.zip"
     }
   }
