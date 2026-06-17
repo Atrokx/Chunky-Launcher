@@ -1,10 +1,20 @@
 {
   "packs": {
     "essentiel": {
-      "url": "https://github.com/github/gitignore/archive/refs/heads/main.zip"
+      "name": "Chunky Essentiel",
+      "version": "0.3",
+      "url": "https://github.com/Atrokx/Chunky-Launcher/releases/download/Essentiel/Essentiel.zip",
+      "mc_version": "26.1.2",
+      "loader": "fabric",
+      "loader_version": "0.19.3"
     },
     "qualite": {
-      "url": "https://github.com/github/gitignore/archive/refs/heads/main.zip"
+      "name": "Chunky Qualité",
+      "version": "0.3",
+      "url": "https://github.com/Atrokx/Chunky-Launcher/releases/download/Qualite/Qualite.zip",
+      "mc_version": "26.1.2",
+      "loader": "fabric",
+      "loader_version": "0.19.3"
     }
   }
 }
