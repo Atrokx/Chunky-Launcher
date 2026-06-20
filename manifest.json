@@ -1,4 +1,8 @@
 {
+  "template": {
+    "version": "1.0",
+    "url": "https://raw.githubusercontent.com/Atrokx/Chunky-Launcher/refs/heads/main/TEMPLATE.zip"
+  },
   "packs": {
     "essentiel": {
       "name": "Chunky Essentiel",
