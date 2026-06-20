@@ -15,10 +15,6 @@
       "mc_version": "26.1.2",
       "loader": "fabric",
       "loader_version": "0.19.3"
-    },
-    "template": {
-      "version": "1.0",
-      "url": "https://raw.githubusercontent.com/Atrokx/Chunky-Launcher/refs/heads/main/TEMPLATE.zip"
     }
   }
 }
